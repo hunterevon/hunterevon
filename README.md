@@ -28,7 +28,7 @@ Here are three of my recent repository projects:
   * Flat BEM file structure
   * CSS animation/transform
 
-3. **Project Two** – [[Link to repository]](https://github.com/hunterevon/Coffee-Shop) (#2)  
+3. **Project Two** – [[Link to repository](https://github.com/hunterevon/Coffee-Shop) (#2)  
    *This project includes standard HTML/CSS for the webpage. Project features
    
 * Semantic HTML5
@@ -38,7 +38,7 @@ Here are three of my recent repository projects:
 * A custom form
 * CSS animation and transform
 
-4. **Project Three** – [Link to repository] (#3)  
+4. **Project Three** – [[Link to repository](https://github.com/hunterevon/Library-Project) (#3)  
    * This was my first project. This project is HTML/CSS and features
      
    * Flexbox
